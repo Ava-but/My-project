@@ -1,3 +1,9 @@
 p{
     color: blue;
 }
+
+body{
+    background-image: url('/Знімок\ екрана\ 2024-07-03\ 184219.png');
+    background-repeat: no-repeat;
+background-size: cover;
+}
